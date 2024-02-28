@@ -13,4 +13,5 @@ The predictive model which was found a combination of the most accurate/efficien
 -	Create a Standard Scaler and scale data
 -	Train/Fit/Predict a RandomForestRegressor model
 -	Evaluate predictions to determine accuracy of the model
+  
 The model predictions are within 75% accuracy for each of the job titles in the dataset. The code allows users to choose one out of the 4 jobs to receive a predicted salary in the dataset. The input added with the idea that future cleaned data could be added to the dataframe to create a more robust model containing more job titles. 
